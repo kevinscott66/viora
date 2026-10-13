@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "revision": "public-synthetic-fixtures",
+  "tracks": {
+    "fixture_1": {
+      "title": "Example recording 1",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "balanced"
+    },
+    "fixture_2": {
+      "title": "Example recording 2",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "balanced"
+    },
+    "fixture_3": {
+      "title": "Example recording 3",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "melancholic"
+    },
+    "fixture_4": {
+      "title": "Example recording 4",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "balanced"
+    },
+    "fixture_5": {
+      "title": "Example recording 5",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "balanced"
+    },
+    "fixture_6": {
+      "title": "Example recording 6",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "balanced"
+    },
+    "fixture_7": {
+      "title": "Example recording 7",
+      "artist": "Example artist",
+      "status": "verified",
+      "sources": [],
+      "intensity": "steady",
+      "tone": "balanced"
+    }
+  }
+}

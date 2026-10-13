@@ -1,0 +1,48 @@
+{
+  "version": 2,
+  "revision": "public-synthetic-fixtures",
+  "categories": [
+    "party",
+    "sad",
+    "groove",
+    "calm"
+  ],
+  "tracks": {
+    "fixture_1": {
+      "stations": [
+        "party"
+      ]
+    },
+    "fixture_2": {
+      "stations": [
+        "sad"
+      ]
+    },
+    "fixture_3": {
+      "stations": [
+        "party"
+      ]
+    },
+    "fixture_4": {
+      "stations": [
+        "sad"
+      ]
+    },
+    "fixture_5": {
+      "stations": [
+        "groove",
+        "party"
+      ]
+    },
+    "fixture_6": {
+      "stations": [
+        "groove"
+      ]
+    },
+    "fixture_7": {
+      "stations": [
+        "calm"
+      ]
+    }
+  }
+}
