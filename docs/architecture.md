@@ -11,3 +11,7 @@ Current short-link sharing uploads the explicitly selected moment/card payload t
 Chat identity seeds and first-use peer pins use FlutterSecureStorage. X25519/HKDF and AES-GCM bind ciphertext to room/sender/nonce. Recovery wraps an identity seed with a code-derived key, sends a separate proof and verifies the recovered public key. Existing plaintext history remains distinguishable. This protocol does not provide forward secrecy or post-compromise security, and its first peer observation depends on the server directory.
 
 No production infrastructure map, private documentation, device identity, signing profile, original repository history or personal media is part of this public snapshot.
+
+## Demo captures
+
+`docs/media` contains actual UI screenshots from a disposable Flutter harness with fictional records and original generated demo covers. A fake player supplies a 60/180 second position without audio or network. The harness is excluded from this repository.
