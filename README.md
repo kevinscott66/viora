@@ -60,4 +60,4 @@ Chats use X25519/HKDF and AES-GCM with first-use peer-key pinning. They do not i
 
 [Architecture](docs/architecture.md) · [Security](SECURITY.md)
 
-Source publication does not certify security or deployed-service availability. Dependencies and included fonts retain their own licenses. No additional source license has been granted in this snapshot.
+Source publication does not certify security or deployed-service availability. The source is available under the [MIT License](LICENSE). Third-party fonts and dependencies retain their own licenses.
