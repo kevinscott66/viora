@@ -6,6 +6,14 @@ A Flutter music app for a personal library. Import your own audio, keep favorite
 
 [Русский](README.ru.md) · [Portfolio](https://dobropalm.tech/#viora) · [Author](https://github.com/kevinscott66)
 
+
+## Interface preview
+
+![Viora home screen](docs/media/viora-home-demo.png)
+
+[Player screen](docs/media/viora-player-demo.png). Captured from the actual Flutter interface in a disposable demo build. Track names, artists and covers are fictional; playback is simulated at 1:00 of 3:00, without audio.
+
+
 ## Run locally
 
 Requires Flutter with Dart 3.11.4 or later compatible with the lockfile.
